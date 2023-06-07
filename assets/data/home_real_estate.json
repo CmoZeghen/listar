@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "data": {
+    "country": [
+      { "code": "us","name": "United States", "image": "assets/images/us.png" },
+      { "code": "vi","name": "Vietnam", "image": "assets/images/vn.png" },
+      { "code": "cn","name": "China", "image": "assets/images/cn.png" },
+      { "code": "id","name":"Indonesia", "image": "assets/images/id.png" },
+      { "code": "kr", "name":"Korean","image": "assets/images/kr.png" },
+      { "code": "sg","name": "Singapore", "image": "assets/images/sg.png" }
+    ],
+    "location": [
+      { "title": "New York", "image": "assets/images/place-1.jpg" },
+      { "title": "Michigan", "image": "assets/images/place-2.jpg" },
+      { "title": "Nevada", "image": "assets/images/place-3.jpg" },
+      { "title": "Missouri", "image": "assets/images/place-4.jpg" },
+      { "title": "California","image": "assets/images/place-5.jpg" }
+    ],
+    "popular": [
+      {
+        "id": 1,
+        "title": "Peace Apartments",
+        "subtitle": "New York",
+        "image": "assets/images/real-estate-1.jpg",
+        "created_date": "Sep 15, 2020",
+        "rate": 4.5,
+        "num_rate": 676,
+        "rate_text": "Good",
+        "status": "Open Now",
+        "favorite": false,
+        "address": "667 Wiegand Gardens Suite, United States",
+        "phone": "+84-99-999-999",
+        "price": 1200.99
+      },
+      {
+        "id": 2,
+        "title": "EcoStay",
+        "subtitle": "Nevada",
+        "image": "assets/images/real-estate-2.jpg",
+        "created_date": "Sep 15, 2020",
+        "rate": 4.5,
+        "num_rate": 676,
+        "rate_text": "Good",
+        "status": "Open Now",
+        "favorite": false,
+        "address": "667 Wiegand Gardens Suite, United States",
+        "phone": "+84-99-999-999",
+        "price": 700.99
+      },
+      {
+        "id": 3,
+        "title": "Lounge Coffee Bar",
+        "subtitle": "Arts & Humanities",
+        "image": "assets/images/real-estate-3.jpg",
+        "created_date": "Sep 15, 2020",
+        "rate": 4.5,
+        "num_rate": 676,
+        "rate_text": "Good",
+        "status": "Open Now",
+        "favorite": false,
+        "address": "667 Wiegand Gardens Suite, United States",
+        "phone": "+84-99-999-999",
+        "price": 2900.99
+      },
+      {
+        "id": 4,
+        "title": "Lounge Coffee Bar",
+        "subtitle": "Arts & Humanities",
+        "image": "assets/images/real-estate-4.jpg",
+        "created_date": "Sep 15, 2020",
+        "rate": 4.5,
+        "num_rate": 676,
+        "rate_text": "Good",
+        "status": "Open Now",
+        "favorite": false,
+        "address": "667 Wiegand Gardens Suite, United States",
+        "phone": "+84-99-999-999",
+        "price": 850.99
+      }
+    ]
+  },
+  "message": "get data success"
+}

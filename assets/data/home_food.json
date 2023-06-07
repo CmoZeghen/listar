@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": {
+    "country": [
+      { "code": "us","name": "United States", "image": "assets/images/us.png" },
+      { "code": "vi","name": "Vietnam", "image": "assets/images/vn.png" },
+      { "code": "cn","name": "China", "image": "assets/images/cn.png" },
+      { "code": "id","name":"Indonesia", "image": "assets/images/id.png" },
+      { "code": "kr", "name":"Korean","image": "assets/images/kr.png" },
+      { "code": "sg","name": "Singapore", "image": "assets/images/sg.png" }
+    ],
+    "category": [
+      { "title": "Pizza", "image": "assets/images/food-6.jpg" },
+      { "title": "Fastfood", "image": "assets/images/food-8.jpg" },
+      { "title": "Drink", "image": "assets/images/food-7.jpg" },
+      { "title": "Fruits", "image": "assets/images/food-6.jpg" },
+      { "title": "Vegetable","image": "assets/images/food-1.jpg" },
+      { "title": "Restaurants","image": "assets/images/food-5.jpg" }
+    ],
+    "promotion": { "title": "promotion_today","image": "assets/images/food-promos.jpg" }
+  },
+  "message": "get data success"
+}

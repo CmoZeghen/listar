@@ -1,0 +1,101 @@
+{
+  "success": true,
+  "data": {
+    "banner": [
+      { "id": 1, "image": "assets/images/banner-2.jpg" },
+      { "id": 2, "image": "assets/images/banner-1.jpg" },
+      { "id": 3, "image": "assets/images/banner-3.jpg" }
+    ],
+    "category": [
+      {
+        "id": 1,
+        "title": "Shopping",
+        "icon": "shopping_basket",
+        "color": "#ff8a65",
+        "type": "shop"
+      },
+      {
+        "id": 2,
+        "title": "Coffee & Bar",
+        "icon": "local_drink",
+        "color": "#5d6d7e",
+        "type": "drink"
+      },
+      {
+        "id": 3,
+        "title": "Events",
+        "icon": "event_available",
+        "color": "#a569bd",
+        "type": "event"
+      },
+      {
+        "id": 4,
+        "title": "Real Estate",
+        "icon": "all_inclusive",
+        "color": "#5dade2",
+        "type": "estate"
+      },
+      {
+        "id": 5,
+        "title": "Job Street",
+        "icon": "card_travel",
+        "color": "#4a90a4",
+        "type": "job"
+      },
+      {
+        "id": 6,
+        "title": "Restaurant",
+        "icon": "restaurant",
+        "color": "#58d68d",
+        "type": "restaurant"
+      },
+      {
+        "id": 7,
+        "title": "Automotive",
+        "icon": "directions_car",
+        "color": "#fdc60a",
+        "type": "automotive"
+      },
+      {
+        "id": 8,
+        "title": "Hotel",
+        "icon": "hotel",
+        "color": "#ff8a65",
+        "type": "hotel"
+      }
+    ],
+    "popular": [
+      {
+        "id": 11,
+        "title": "Michigan",
+        "subtitle": "Arts & Humanities",
+        "image": "assets/images/trip-1.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Colorado",
+        "subtitle": "Arts & Humanities",
+        "image": "assets/images/trip-4.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Utah",
+        "subtitle": "Arts & Humanities",
+        "image": "assets/images/trip-5.jpg"
+      },
+      {
+        "id": 14,
+        "title": "King Utah",
+        "subtitle": "Arts & Humanities",
+        "image": "assets/images/trip-6.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Colorado King",
+        "subtitle": "Arts & Humanities",
+        "image": "assets/images/trip-7.jpg"
+      }
+    ]
+  },
+  "message": "get data success"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "362839000336",
+    "project_id": "listar-flux-ui-kit",
+    "storage_bucket": "listar-flux-ui-kit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362839000336:android:d709279ddfafd344769195",
+        "android_client_info": {
+          "package_name": "com.huynh.listar_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362839000336-b4eamlt6g0js23kceavdt6rbq0l0c97t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3JpJBWIo4VrlOzNnGyag_RrI3IIwixnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362839000336-b4eamlt6g0js23kceavdt6rbq0l0c97t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362839000336-sro8u1ae0ihq1enr4695cnmj2it4egvm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.huynh.listarFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

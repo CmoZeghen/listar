@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "data": {
+    "category": [
+      {
+        "id": 1,
+        "title": "Music",
+        "icon": "music_note_outlined",
+        "color": "#A569BD"
+      },
+      {
+        "id": 2,
+        "title": "Shows",
+        "icon": "star_border_outlined",
+        "color": "#5DADE2"
+      },
+      {
+        "id": 3,
+        "title": "Sports",
+        "icon": "sports_basketball",
+        "color": "#58D68D"
+      },
+      {
+        "id": 4,
+        "title": "Events",
+        "icon": "event",
+        "color": "#5D6D7E"
+      },
+      {
+        "id": 5,
+        "title": "Out Door",
+        "icon": "outdoor_grill_outlined",
+        "color": "#5DADE2"
+      }
+    ]
+  },
+  "message": "get data success"
+}
